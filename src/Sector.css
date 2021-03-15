@@ -1,0 +1,5 @@
+.sector {
+  flex: 0.65;
+  background-color: blue;
+  margin: 30px;
+}
